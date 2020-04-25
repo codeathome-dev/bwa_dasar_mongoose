@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MFM",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.10"
+  }
+}
